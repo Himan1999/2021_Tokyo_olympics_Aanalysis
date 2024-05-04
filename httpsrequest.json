@@ -1,0 +1,27 @@
+[
+    {
+        "BaseURL" : "https://raw.githubusercontent.com",
+        "RelativeURL" : "Himan1999/2021_Tokyo_olympics_Aanalysis/master/raw_data/csv%20format/Athletes.csv",
+        "FileName" : "Athletes.csv"
+    },
+    {
+        "BaseURL" : "https://raw.githubusercontent.com",
+        "RelativeURL" : "Himan1999/2021_Tokyo_olympics_Aanalysis/master/raw_data/csv%20format/Coaches.csv",
+        "FileName" : "Coaches.csv"
+    },
+    {
+        "BaseURL" : "https://raw.githubusercontent.com",
+        "RelativeURL" : "Himan1999/2021_Tokyo_olympics_Aanalysis/master/raw_data/csv%20format/EntriesGender.csv",
+        "FileName" : "EntriesGender.csv"
+    },
+    {
+        "BaseURL" : "https://raw.githubusercontent.com",
+        "RelativeURL" : "Himan1999/2021_Tokyo_olympics_Aanalysis/master/raw_data/csv%20format/Medals.csv",
+        "FileName" : "Medals.csv"
+    },
+    {
+        "BaseURL" : "https://raw.githubusercontent.com",
+        "RelativeURL" : "Himan1999/2021_Tokyo_olympics_Aanalysis/master/raw_data/csv%20format/Teams.csv",
+        "FileName" : "Teams.csv"
+    }
+]
