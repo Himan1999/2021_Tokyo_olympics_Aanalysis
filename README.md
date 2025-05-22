@@ -10,6 +10,8 @@ This project demonstrates how to build a **production-ready, full-stack Olympic 
 
 ## 🧱 Architecture Used – Medallion Architecture on Azure
 
+![Architecture Diagram](architecture.png)
+
 The project follows the **Medallion Architecture** pattern — Bronze (Raw), Silver (Cleaned), and Gold (Business-ready) — implemented via the following Azure services:
 
 ### 🔹 1. Data Ingestion – *Azure Data Factory (ADF)*
