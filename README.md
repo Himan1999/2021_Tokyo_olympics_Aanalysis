@@ -2,7 +2,7 @@
 # 🏅 Tokyo Olympics 2020 Dashboard — End-to-End Data Engineering with Azure & Power BI
 
 ## 🎯 Project Overview
-This project demonstrates how to build a **production-ready, full-stack Olympic Dashboard** using **Azure Data Engineering tools** and **Power BI**. The primary objective was to simulate real-world enterprise data workflows using the **Medallion Architecture**, incorporating scalable ingestion, transformation, and visualization of Tokyo 2020 Olympics data.
+This project demonstrates how to build a **production-ready, full-stack Olympic Dashboard** using **Azure Data Engineering tools** and **Power BI**. The primary objective was to simulate real-world enterprise data workflows using the **Medallion Architecture**, incorporating scalable ingestion, transformation, and visualization of Tokyo 2020 Olympics data. This project wasn’t just about building a dashboard — it was about understanding how modern cloud architecture can be used to build scalable, production-ready solutions from ingestion to insights. 🚀
 
 > 🔍 **Goal**: Build an end-to-end data pipeline — from raw ingestion to beautiful insights — using cloud-native tools in Azure and Power BI.
 
@@ -70,7 +70,7 @@ Structured into three zones:
 ## 🔍 Folder Structure
 
 ```
-📁 olympics-dashboard/
+📁 Tokyo-olympics-dashboard/
 ├── 📂 notebooks/              # PySpark notebooks for ETL
 ├── 📂 powerbi/                # PBIX file and screenshots
 ├── 📂 pipeline-templates/     # ADF pipeline JSON templates
@@ -97,7 +97,7 @@ Structured into three zones:
    - `/gold/olympics/metrics/`  
 
 3. **Process with PySpark in Databricks**  
-   - Use `notebooks/bronze_to_silver.ipynb` and `silver_to_gold.ipynb`
+   - Use `notebooks/Tokyo Olympic Transformation.ipynb`
 
 4. **Visualize in Power BI**  
    - Load `powerbi/dashboard.pbix`
@@ -130,4 +130,3 @@ If you'd like to collaborate or have feedback:
 **👨‍💻 Himanshu Rathod**  
 Data Engineer | Cloud Analytics Enthusiast  
 🔗 [LinkedIn](https://www.linkedin.com/in/himanshurathod1047)  
-🌐 [Dribbble](https://dribbble.com/himan_1047)
